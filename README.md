@@ -28,7 +28,7 @@ ________________________________________________________________________________
  
 USAGE
 ______________________________________________________________________________________
-Playing blackjack:
+Playing blackjack:\
 When you run the program, click p to start playing and then place your bet.
 
 After that you are offered your cards and can hit h for hit and s for stand
@@ -36,7 +36,7 @@ After that you are offered your cards and can hit h for hit and s for stand
 The computer will then play the dealer's hand and you will have the chance to play 
 again and place a new bet 
 
-Playing blackjack:
+Playing crazy eights:\
 When you run the program, click p to start.
 
 In each round you can select the cards that you want to play
